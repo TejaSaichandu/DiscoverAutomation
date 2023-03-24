@@ -8,6 +8,7 @@ public class Tejaclass {
 	public void demo()
 	{
 	  System.out.println("hiiii");	
+	  System.out.println("hello");
 	}
 
 }
